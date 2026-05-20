@@ -14,13 +14,21 @@ https://www.slideshare.net/slideshow/topic-description-aviation-system-baggage-t
 
 Task 3
 
+Analysing passenger experience in Aviation system This task involves analysing passenger experience throughout the aviation process, from ticket reservation to baggage claim and arrival. The analysis focuses on service quality, waiting times, passenger comfort, safety procedures, and coordination between airline departments such as cabin crew, pilots, catering, and maintenance teams. It also evaluates how efficient airport operations and customer service contribute to passenger satisfaction and loyalty.
+
+https://www.slideshare.net/slideshow/for-publishing-in-slideshare-topic-description-describe-your-flowchart-saida-nurana-elgun-rena-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/286570709
+
+Verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ https://www.instagram.com/physics_teacher_azerbaijan
+
+Task 4
+
 SIPOC map quality control. This task involves conducting a SIPOC-based quality control analysis of the aviation baggage handling system to identify the main causes of baggage loss, delays, and misrouting. The analysis evaluates suppliers, inputs, processes, outputs, and customers while focusing on machine systems, operational methods, personnel performance, tracking systems, and environmental conditions affecting service reliability.
 
 https://www.slideshare.net/slideshow/sipoc-map-quality-control-for-aviation-baggage-handling-system-students-maya-guliyeva-nurana-tagiyeva-askerova-saida-humbatli-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi/287160116
 
 Verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ https://www.instagram.com/physics_teacher_azerbaijan
 
-Task 4
+Task 5
 
 Optimizing baggage tracking system. This task involves optimizing the aviation baggage tracking system to improve operational efficiency and reduce baggage loss or delays. The analysis focuses on improving tracking accuracy, process coordination, and overall baggage handling performance.
 
