@@ -5,6 +5,7 @@ This is my project description. Clean the dataset (handle missing values, fix fo
 Organize the data for analysis
 Prepare it for extracting meaningful insights about task performance
 https://www.slideshare.net/slideshow/task_duration_analysis-pptx-ayshan-nurana-rena/287379593
+
 Task 2 Optimization
 
 The optimization process in this project focuses on improving crane utilization efficiency by identifying operational bottlenecks and reducing unnecessary downtime. Through the fishbone diagram analysis, several root causes affecting performance were identified, including inefficient scheduling, poor communication between departments, delays in logistics, lack of real-time monitoring systems, and inadequate resource allocation.
